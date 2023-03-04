@@ -14,5 +14,7 @@ DATA를 GET하여 필요한 정보인 기온(Temp)과 날씨(WfEn)에 해당하�
 
 ### 아두이노 관련 기본 공부 정리 
 [[Arduino] 마이크로 컨트롤러와 아두이노, IDE 설치](https://dev-raeun.tistory.com/44)
+
 [[Arduino] 아두이노 시리얼 통신, 디지털 데이터 입출력 함수](https://dev-raeun.tistory.com/45)
+
 [[Arduino] 아두이노 LED 블링크, 버튼 연결 저항](https://dev-raeun.tistory.com/46)
