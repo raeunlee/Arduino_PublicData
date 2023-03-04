@@ -1,5 +1,5 @@
 # Arduino_PublicData
-## 공공데이터를 활용한 아두이노 프로젝트
+## 공공데이터를 활용한 아두이노 프로젝트 (2023.02.15 ~ 02.17 단국대 동계특강)
 공공데이터 날씨정보를 HTTP GET으로 받아 아두이노의 LCD, rgb LED 모듈로 나타낸 미니 프로젝트
 ### 활용데이터 및 설계방식
 http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1121581000
